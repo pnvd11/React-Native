@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="23"
+    density="hdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="4384506569077"
+    token="-3347608470850030182"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="/Users/nikkula18/Downloads/AwesomeProject/android/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="/Users/nikkula18/Downloads/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.soloader-soloader-0.1.0_fa3f15cf7c41cc6784e486c472f5295832829772/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/nikkula18/Downloads/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.0.1_f7cbbe0a6dbb4cf77cc459bdbce50a3705f0ca59/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/nikkula18/Downloads/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_9db00484ed984ff4dab11bf0026655170299e8da/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/nikkula18/Downloads/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.4.1_0c5c3a3fd5939dc738a1768fdd1e1e547875fb50/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/nikkula18/Downloads/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4fabad0c44e5f30487fd02f3247350a1ba800f38/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/nikkula18/Downloads/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_21a0ef5a18a59dbb3c8042e8c6cd058885d8000b/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/nikkula18/Downloads/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/javax.inject-1_1063f47e52e0d61fc522a6d0c529281fdcca281e/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/nikkula18/Downloads/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.react-react-native-0.41.2_bef1ed6b04d77f7e29f692d872ec91f4d3446b3f/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/nikkula18/Downloads/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-imagepipeline-0.11.0_a123d2275a835b53a564f9760bc1621edbf1e4ce/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/nikkula18/Downloads/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/nikkula18/Downloads/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/nikkula18/Downloads/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_3c1086556d7aac800a2bda28441393509a56e9be/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/nikkula18/Downloads/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_7faabea1125f7194246d2263d61a9c3fb59fce6d/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/nikkula18/Downloads/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-urlconnection-3.4.1_5a705b6d50977bb91bb951be28f010d14a14663d/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/nikkula18/Downloads/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ca17e70bc5503315dafad63a20cfaf9b5482b031/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/nikkula18/Downloads/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_b640a66398678994e2a9859df02700500695dd88/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/nikkula18/Downloads/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-imagepipeline-okhttp3-0.11.0_59c31c77c9420a8277d0e3c843972d1b808974d4/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/nikkula18/Downloads/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/nikkula18/Downloads/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-fbcore-0.11.0_6ec9960dc964b9627863877799f8c99094fec3d6/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/nikkula18/Downloads/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/nikkula18/Downloads/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/nikkula18/Downloads/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/nikkula18/Downloads/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/nikkula18/Downloads/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/nikkula18/Downloads/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/nikkula18/Downloads/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/nikkula18/Downloads/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.9.0_699eaa66b505cba1b82803f89649c96f95a02d17/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/nikkula18/Downloads/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/jsr305-3.0.0_404deb67e1a1ef54adc7bf007e3d312ca14c954c/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/nikkula18/Downloads/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-drawee-0.11.0_ae66e1bd91544814df34209fd565b2462062a71e/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/nikkula18/Downloads/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_58cd5b696480c0f0809695cf38dacbe59065a9c7/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/nikkula18/Downloads/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-ws-3.4.1_0ffad79f7894af1a3e4249001aaceef6478ffc3b/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/nikkula18/Downloads/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/staticlayout-proxy-1.0_c5f78d378db0b3ae3a29079b810381890307529c/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/nikkula18/Downloads/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-2.4.0_65b3beb1cacb14df7b462b57bb64c0ff3793b33c/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/nikkula18/Downloads/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-fresco-0.11.0_8dbe6d7e143a5f2ba3006ac99b2e0c9f7eb400a6/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/nikkula18/Downloads/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-imagepipeline-base-0.11.0_d677d9c76bae7d903f63528984c729d04dc93f9f/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/nikkula18/Downloads/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/infer-annotations-1.5_48c46f41d194411ba5fa26c6a04c46bad2621266/classes.dex"
+        type="DEX" />
+
+    <build
+        timestamp="2225784399670"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/nikkula18/Downloads/AwesomeProject/android/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="4384506569077"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/nikkula18/Downloads/AwesomeProject/android/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="/Users/nikkula18/Downloads/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.soloader-soloader-0.1.0_fa3f15cf7c41cc6784e486c472f5295832829772/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/nikkula18/Downloads/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.0.1_f7cbbe0a6dbb4cf77cc459bdbce50a3705f0ca59/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/nikkula18/Downloads/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_9db00484ed984ff4dab11bf0026655170299e8da/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/nikkula18/Downloads/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.4.1_0c5c3a3fd5939dc738a1768fdd1e1e547875fb50/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/nikkula18/Downloads/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4fabad0c44e5f30487fd02f3247350a1ba800f38/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/nikkula18/Downloads/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_21a0ef5a18a59dbb3c8042e8c6cd058885d8000b/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/nikkula18/Downloads/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/javax.inject-1_1063f47e52e0d61fc522a6d0c529281fdcca281e/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/nikkula18/Downloads/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.react-react-native-0.41.2_bef1ed6b04d77f7e29f692d872ec91f4d3446b3f/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/nikkula18/Downloads/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-imagepipeline-0.11.0_a123d2275a835b53a564f9760bc1621edbf1e4ce/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/nikkula18/Downloads/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/nikkula18/Downloads/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/nikkula18/Downloads/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_3c1086556d7aac800a2bda28441393509a56e9be/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/nikkula18/Downloads/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_7faabea1125f7194246d2263d61a9c3fb59fce6d/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/nikkula18/Downloads/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-urlconnection-3.4.1_5a705b6d50977bb91bb951be28f010d14a14663d/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/nikkula18/Downloads/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_ca17e70bc5503315dafad63a20cfaf9b5482b031/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/nikkula18/Downloads/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_b640a66398678994e2a9859df02700500695dd88/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/nikkula18/Downloads/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-imagepipeline-okhttp3-0.11.0_59c31c77c9420a8277d0e3c843972d1b808974d4/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/nikkula18/Downloads/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/nikkula18/Downloads/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-fbcore-0.11.0_6ec9960dc964b9627863877799f8c99094fec3d6/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/nikkula18/Downloads/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/nikkula18/Downloads/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/nikkula18/Downloads/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/nikkula18/Downloads/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/nikkula18/Downloads/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/nikkula18/Downloads/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/nikkula18/Downloads/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/nikkula18/Downloads/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.9.0_699eaa66b505cba1b82803f89649c96f95a02d17/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/nikkula18/Downloads/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/jsr305-3.0.0_404deb67e1a1ef54adc7bf007e3d312ca14c954c/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/nikkula18/Downloads/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-drawee-0.11.0_ae66e1bd91544814df34209fd565b2462062a71e/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/nikkula18/Downloads/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_58cd5b696480c0f0809695cf38dacbe59065a9c7/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/nikkula18/Downloads/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-ws-3.4.1_0ffad79f7894af1a3e4249001aaceef6478ffc3b/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/nikkula18/Downloads/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/staticlayout-proxy-1.0_c5f78d378db0b3ae3a29079b810381890307529c/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/nikkula18/Downloads/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-2.4.0_65b3beb1cacb14df7b462b57bb64c0ff3793b33c/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/nikkula18/Downloads/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-fresco-0.11.0_8dbe6d7e143a5f2ba3006ac99b2e0c9f7eb400a6/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/nikkula18/Downloads/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.facebook.fresco-imagepipeline-base-0.11.0_d677d9c76bae7d903f63528984c729d04dc93f9f/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/nikkula18/Downloads/AwesomeProject/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/infer-annotations-1.5_48c46f41d194411ba5fa26c6a04c46bad2621266/classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>
